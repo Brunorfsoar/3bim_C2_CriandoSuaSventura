@@ -1,4 +1,4 @@
-#Alura
+Curso Alura Sp - 
 Utilize tags HTML para estruturar uma página web;
 Utilize atributos de elementos HTML como class, id e data para manipular elementos;
 Aplique estilos a uma página web usando CSS;
